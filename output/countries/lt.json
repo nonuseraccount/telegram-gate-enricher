@@ -1,0 +1,22 @@
+[
+    {
+        "original_host": "14.102.10.63",
+        "ip": "14.102.10.63",
+        "port": 8888,
+        "secret": "FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "country_code": "LT",
+        "country_name": "Lithuania",
+        "country_flag": "🇱🇹",
+        "tg_link": "tg://proxy?server=14.102.10.63&port=8888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+        "original_host": "14.102.10.182",
+        "ip": "14.102.10.182",
+        "port": 888,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "country_code": "LT",
+        "country_name": "Lithuania",
+        "country_flag": "🇱🇹",
+        "tg_link": "tg://proxy?server=14.102.10.182&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    }
+]

@@ -1,0 +1,346 @@
+[
+    {
+        "proxy": "tg://proxy?server=146.103.107.23&port=777&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 146.103.107.23:777"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=www.tcpopenport.website.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "reason": "Connectivity check failed for 91.99.184.67:9741"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s17ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s17ddns.net"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=www.tcpclosedport.store.&port=9741&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+        "reason": "Connectivity check failed for 91.99.153.30:9741"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=45123&secret=ee4c5d9731041f19a70aa99f660b95cd88617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:45123"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s3ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s3ddns.net"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=140.233.187.135&port=343&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 140.233.187.135:343"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=ai.naserhost-990.ir&port=11&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ",
+        "reason": "Connectivity check failed for 178.128.168.142:11"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=13248&secret=ee87f3c38426788f6c2bd036713e4b59de617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:13248"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s51ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s51ddns.net"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=www.lastingg.baby.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.216.182.199:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.84.110.205&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=Hamrah-vasl.namli--binjzk.info&port=70&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 5.223.59.238:70"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=194.60.135.144&port=443000&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 194.60.135.144:443000"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=new-pio-iran-ck-uk-ir.zx2hgujoiah-xy1xutr021-2tk.info&port=8443&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=",
+        "reason": "Connectivity check failed for 91.99.150.78:8443"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=45124&secret=ee4c5d9731041f19a70aa99f660b95cd88617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:45124"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=5.75.192.11&port=77&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 5.75.192.11:77"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=95.216.178.73&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.216.178.73:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=89.110.79.188&port=443000&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=146.103.105.83&port=443000&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ",
+        "reason": "Connectivity check failed for 146.103.105.83:443000"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=89.110.78.179&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d",
+        "reason": "Connectivity check failed for 89.110.78.179:443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=88.99.122.151&port=9861&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 88.99.122.151:9861"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=146.103.100.98&port=443000&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ",
+        "reason": "Connectivity check failed for 146.103.100.98:443000"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=109.107.176.45&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=109.107.187.194&port=443000&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 109.107.187.194:443000"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=ir.suggested.run.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.217.187.28:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=iran.filters.yoga.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.217.23.182:8888"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=12170&secret=ee7b6921188932169a9eca78a411fde7a4617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:12170"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=12123&secret=ee87f3c38426788f6c2bd036713e4b59de617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:12123"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=75127.e7.ir.newdf12.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 91.99.3.55:8888"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=12168&secret=ee7b6921188932169a9eca78a411fde7a4617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:12168"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=7.1.ir.ir.brobalair.ink&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@Data_proxy",
+        "reason": "Connectivity check failed for 91.99.214.214:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s44ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s44ddns.net"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ",
+        "reason": "DNS resolution failed for host: Berke.Wikimoon.sale"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=185.157.213.66&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=212.34.142.234&port=443000&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=89.251.10.24&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d&@Newproxy_ir",
+        "reason": "Connectivity check failed for 89.251.10.24:443"
+    },
+    {
+        "proxy": "tg://proxy?server=146.103.113.86&port=777&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 146.103.113.86:777"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=87.248.134.9&port=4443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 87.248.134.9:4443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5I",
+        "reason": "Secret '7jK5I' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.99.225.30&port=155&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)",
+        "reason": "Secret '7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=212.34.141.166&port=888&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 212.34.141.166:888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=87.248.132.30&port=155&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=371164.meli.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 91.99.214.214:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=109.107.177.206&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.99.138.108&port=155&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)",
+        "reason": "Secret '7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=www.salamcinama.asia.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.217.213.7:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=146.103.103.107&port=780000&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 146.103.103.107:780000"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=212.34.136.23&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=87.248.134.9&port=4443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D&@Newproxy_ir",
+        "reason": "Connectivity check failed for 87.248.134.9:4443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s24ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s24ddns.net"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s50ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s50ddns.net"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=89.251.10.22&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "reason": "Connectivity check failed for 89.251.10.22:443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=87.248.132.2&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=sitemcinet.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 95.216.122.170:443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=78.40.193.180&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 78.40.193.180:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.84.112.213&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=bib.bib.game.zx2hgujoiah-xy1xutr045-2tk.ir&port=8443&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=",
+        "reason": "Connectivity check failed for 91.99.150.78:8443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=94.141.101.23&port=780000&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 94.141.101.23:780000"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.99.194.34&port=155&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=aigermany.srjofood.ir&port=98&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ&@Data_proxy",
+        "reason": "Connectivity check failed for 91.99.96.245:98"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=94.130.190.13&port=9861&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 94.130.190.13:9861"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=45125&secret=ee4c5d9731041f19a70aa99f660b95cd88617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:45125"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=146.103.107.79&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s13ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s13ddns.net"
+    },
+    {
+        "proxy": "tg://proxy?server=donat.bimehyar.sbs&port=8080&secret=eeaab164620b97ea1708ed63599a03f4de7777772e636c6f7564666c6172652e636f6d",
+        "reason": "Connectivity check failed for 45.92.218.62:8080"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.84.96.168&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 91.84.96.168:443"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=51295&secret=ee87f3c38426788f6c2bd036713e4b59de617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:51295"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=www.hostingprivate.icu.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.217.244.86:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=62.60.176.15&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 62.60.176.15:443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.99.61.50&port=155&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)",
+        "reason": "Secret '7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=62.60.176.254&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 62.60.176.254:443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=bezan.sitemcinet.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@Newproxy_ir",
+        "reason": "Connectivity check failed for 95.216.122.170:443"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=12121&secret=ee87f3c38426788f6c2bd036713e4b59de617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:12121"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=146.103.104.178&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 146.103.104.178:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=bib.bib.game.zx2hgujoiah-xy1xutr021-2tk.info&port=8443&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0",
+        "reason": "Connectivity check failed for 91.99.150.78:8443"
+    },
+    {
+        "proxy": "tg://proxy?server=120.241.144.144&port=35210&secret=ee87f3c38426788f6c2bd036713e4b59de617a7572652e6d6963726f736f66742e636f6d",
+        "reason": "Connectivity check failed for 120.241.144.144:35210"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=109.107.178.44&port=443&secret=7otdyWf9v23L9+j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly",
+        "reason": "Secret '7otdyWf9v23L9 j4vrzGtv5OemY0WUxtZGg0T3NCcDUwNUFBMDUwMDEwMjAzMDQwNTA2MDcwODA5Li11cGRhdGUxLmFuZHJvaWQuZ29vZ2xlLnN5bmMuaW1hZ2UudG5hYmlzaWJpemlwLmly' is not a recognized format."
+    },
+    {
+        "proxy": "https://t.me/proxy?server=www.beastmode.icu.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.217.26.20:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=89.110.66.90&port=443000&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "reason": "Connectivity check failed for 89.110.66.90:443000"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=www.bussineshosting.monster.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 95.216.182.226:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=bezan.sitemcinet.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 95.216.122.170:443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=s11ddns.net&port=443&secret=dd00000000000000000000000000000000",
+        "reason": "DNS resolution failed for host: s11ddns.net"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=91.201.115.102&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "reason": "Connectivity check failed for 91.201.115.102:443"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=1677771.e7.ir.newdf12.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "reason": "Connectivity check failed for 91.99.3.55:8888"
+    },
+    {
+        "proxy": "https://t.me/proxy?server=firmware-check.device-update.poshtibani-vip021.com.aa42hgujoiah-xy1xutr005-2tk.ir&port=8443&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=",
+        "reason": "Connectivity check failed for 91.99.183.113:8443"
+    }
+]

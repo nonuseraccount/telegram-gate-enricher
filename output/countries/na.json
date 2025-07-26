@@ -1,0 +1,12 @@
+[
+    {
+        "original_host": "asiatech.email",
+        "ip": "172.67.197.9",
+        "port": 443,
+        "secret": "3QAAAAAAAAAAAAAAAAAAAAA",
+        "country_code": "NA",
+        "country_name": "N/A",
+        "country_flag": "🏴‍☠️",
+        "tg_link": "tg://proxy?server=172.67.197.9&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA"
+    }
+]

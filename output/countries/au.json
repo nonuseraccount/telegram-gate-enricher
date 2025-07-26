@@ -1,0 +1,102 @@
+[
+    {
+        "original_host": "89.251.10.2",
+        "ip": "89.251.10.2",
+        "port": 7443,
+        "secret": "ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.2&port=7443&secret=ee151151151151151151151151151151156D656469612E737465616D706F77657265642E636F6D"
+    },
+    {
+        "original_host": "89.251.10.2",
+        "ip": "89.251.10.2",
+        "port": 6443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.2&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+        "original_host": "89.251.10.3",
+        "ip": "89.251.10.3",
+        "port": 6443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.3&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+        "original_host": "89.251.10.4",
+        "ip": "89.251.10.4",
+        "port": 6443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.4&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+        "original_host": "89.251.10.20",
+        "ip": "89.251.10.20",
+        "port": 443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.20&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+        "original_host": "89.251.10.20",
+        "ip": "89.251.10.20",
+        "port": 443,
+        "secret": "7hURURURURURURURURURURVtZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.20&port=443&secret=7hURURURURURURURURURURVtZWRpYS5zdGVhbXBvd2VyZWQuY29t"
+    },
+    {
+        "original_host": "89.251.10.21",
+        "ip": "89.251.10.21",
+        "port": 443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.21&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+        "original_host": "89.251.10.31",
+        "ip": "89.251.10.31",
+        "port": 6443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.31&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+        "original_host": "89.251.10.32",
+        "ip": "89.251.10.32",
+        "port": 6443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.32&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    },
+    {
+        "original_host": "89.251.10.33",
+        "ip": "89.251.10.33",
+        "port": 6443,
+        "secret": "ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d",
+        "country_code": "AU",
+        "country_name": "Australia",
+        "country_flag": "🇦🇺",
+        "tg_link": "tg://proxy?server=89.251.10.33&port=6443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d"
+    }
+]

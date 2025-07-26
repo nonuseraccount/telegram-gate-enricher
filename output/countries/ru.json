@@ -1,0 +1,42 @@
+[
+    {
+        "original_host": "62.113.116.140",
+        "ip": "62.113.116.140",
+        "port": 443,
+        "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "country_code": "RU",
+        "country_name": "Russia",
+        "country_flag": "🇷🇺",
+        "tg_link": "tg://proxy?server=62.113.116.140&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D"
+    },
+    {
+        "original_host": "89.110.90.23",
+        "ip": "89.110.90.23",
+        "port": 443,
+        "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "country_code": "RU",
+        "country_name": "Russia",
+        "country_flag": "🇷🇺",
+        "tg_link": "tg://proxy?server=89.110.90.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D"
+    },
+    {
+        "original_host": "AAAAAAA.paaawdreboot.ir",
+        "ip": "94.103.89.146",
+        "port": 443,
+        "secret": "eeXifpB2GBv9shh2kvi5lAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "country_code": "RU",
+        "country_name": "Russia",
+        "country_flag": "🇷🇺",
+        "tg_link": "tg://proxy?server=94.103.89.146&port=443&secret=eeXifpB2GBv9shh2kvi5lAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+        "original_host": "95.142.45.42",
+        "ip": "95.142.45.42",
+        "port": 443,
+        "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+        "country_code": "RU",
+        "country_name": "Russia",
+        "country_flag": "🇷🇺",
+        "tg_link": "tg://proxy?server=95.142.45.42&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D"
+    }
+]

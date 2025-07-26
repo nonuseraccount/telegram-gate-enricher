@@ -1,0 +1,32 @@
+[
+    {
+        "original_host": "newdomain1.co.uk",
+        "ip": "152.232.8.182",
+        "port": 443,
+        "secret": "7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "country_code": "CA",
+        "country_name": "Canada",
+        "country_flag": "🇨🇦",
+        "tg_link": "tg://proxy?server=152.232.8.182&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t"
+    },
+    {
+        "original_host": "152.232.8.226",
+        "ip": "152.232.8.226",
+        "port": 155,
+        "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "country_code": "CA",
+        "country_name": "Canada",
+        "country_flag": "🇨🇦",
+        "tg_link": "tg://proxy?server=152.232.8.226&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+        "original_host": "kheybar.co.uk",
+        "ip": "198.20.162.38",
+        "port": 443,
+        "secret": "7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "country_code": "CA",
+        "country_name": "Canada",
+        "country_flag": "🇨🇦",
+        "tg_link": "tg://proxy?server=198.20.162.38&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "ENABLE_CLEANUP_ON_START": true,
+    "ENABLE_CONNECTIVITY_CHECK": true,
+    "ENABLE_SECRET_VALIDATION": true,
+    "ENABLE_SECRET_NORMALIZATION": false,
+    "CONNECTIVITY_TIMEOUT": 2,
+    "GEOIP_DATABASE_URL": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
+}
